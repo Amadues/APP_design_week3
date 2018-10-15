@@ -1,0 +1,119 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:594px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u71_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:295px;
+  height:175px;
+}
+#u71 {
+  border-width:0px;
+  position:absolute;
+  left:299px;
+  top:77px;
+  width:295px;
+  height:175px;
+}
+#u71_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u72 {
+  border-width:0px;
+  position:absolute;
+  left:299px;
+  top:340px;
+  width:295px;
+  height:50px;
+}
+#u72_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:295px;
+  height:50px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u73_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:295px;
+  height:47px;
+  background:inherit;
+  background-color:rgba(49, 129, 205, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u73 {
+  border-width:0px;
+  position:absolute;
+  left:299px;
+  top:283px;
+  width:295px;
+  height:47px;
+  font-size:16px;
+  color:#FFFFFF;
+}
+#u73_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:291px;
+  word-wrap:break-word;
+}
+#u74 {
+  border-width:0px;
+  position:absolute;
+  left:299px;
+  top:283px;
+  width:295px;
+  height:47px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u75 {
+  border-width:0px;
+  position:absolute;
+  left:299px;
+  top:340px;
+  width:295px;
+  height:50px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
